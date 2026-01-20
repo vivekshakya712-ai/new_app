@@ -72,7 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       const TextField(
                         decoration: InputDecoration(
                           prefixIcon: Icon(Icons.email_outlined),
-                          labelText: 'Enter your Email',hintStyle: TextStyle(fontSize: 30,fontWeight: FontWeight.bold),
+                          labelText: 'Enter your Embngnhmhjhhmk',hintStyle: TextStyle(fontSize: 30,fontWeight: FontWeight.bold),
                           border: OutlineInputBorder()
         
                         ),
@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         
                       const Padding(
                         padding: EdgeInsets.only(left: 110,top: 10),
-                        child: Text('Forgot Password?',style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),),
+                        child: Text('Forgot Passhmhnjyjyrd?',style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),),
                       ),
                        Padding(
                        padding: const EdgeInsets.only(left: 55,top: 15),
